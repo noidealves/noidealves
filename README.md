@@ -2,8 +2,8 @@
 
 **Software Developer / Programmer**
 
-- ⚡ Working with: **C++, C#, PHP, JavaScript**
-- 📚 Currently learning: **React.js, Vue.js**
+- ⚡ Working with: **PHP, C#, C++, JS, MQL5**
+- 📚 Currently learning: **Laravel, React.js**
 
 ### How to reach me:
 
